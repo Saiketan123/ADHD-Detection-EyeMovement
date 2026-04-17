@@ -122,18 +122,3 @@ python merge.py
 * Cloud report storage
 * Multi-user dataset analysis
 * Improved accuracy with dlib / MediaPipe
-
----
-
-## 👨‍💻 Developed By
-
-**Sai Ketan**
-Engineering Student | Python Developer | AI Enthusiast
-
-GitHub: https://github.com/Saiketan123
-
----
-
-## ⭐ Support
-
-If you found this project useful, please give it a **star ⭐** on GitHub.
